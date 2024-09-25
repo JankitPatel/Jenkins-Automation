@@ -1,3 +1,3 @@
-# maven-app
+# Jenkins Automation
 
-This is a simple maven app that prints Hello World!!
+Automating the process of Jenkins with 7 stages
